@@ -1,0 +1,12 @@
+[submodule "submodules/crosswindow"]
+	path = submodules/crosswindow
+	url = https://github.com/alaingalvan/crosswindow.git
+[submodule "submodules/flecs"]
+	path = submodules/flecs
+	url = https://github.com/SanderMertens/flecs.git
+[submodule "submodules/DiligentCore"]
+	path = submodules/DiligentCore
+	url = https://github.com/DiligentGraphics/DiligentCore.git
+[submodule "submodules/DiligentTools"]
+	path = submodules/DiligentTools
+	url = https://github.com/DiligentGraphics/DiligentTools.git
